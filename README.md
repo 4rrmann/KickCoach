@@ -1,0 +1,4 @@
+# 𝗪𝗲 𝗺𝗮𝗸𝗲 𝘁𝗵𝗲 𝘄𝗼𝗿𝗹𝗱'𝘀 𝗮𝘁𝗵𝗹𝗲𝘁𝗲𝘀 𝗺𝗼𝘃𝗲 𝗹𝗶𝗸𝗲 𝘁𝗵𝗲 𝘄𝗼𝗿𝗹𝗱'𝘀 𝗯𝗲𝘀𝘁.⚽
+*Upload your 30-second performance video, and the system extracts the most critical frames from your movement. Using OpenCv(MoveNet) pose estimation, it tracks your body keypoints and computes scientifically researched, best-fit biomechanical features for accurate performance evaluation. These features are compared against literature-backed reference ranges and our elite benchmark models built from professional athletes. If you want your body posture and movement pattern to closely match the pros, our elite benchmark comparison shows exactly where you stand. Based on the deviations, the LLM generates personalized diagnostic feedback and recommends targeted drills to refine your technique and elevate your performance.*
+
+![Uploading image.png…]()
